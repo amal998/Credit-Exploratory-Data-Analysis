@@ -1,7 +1,7 @@
 # Credit-Exploratory-Data-Analysis
 INTRODUCTION
 
-This assignment aims to give you a sense of how to use EDA in a genuine business setting. In addition to using the skills you learned in the EDA module, you will gain a fundamental grasp of risk analytics in banking and financial services and learn how data is used in this assignment to reduce the risk of losing money when lending to customers.
+This assignment aims to give you a sense of how to use EDA in a genuine business setting. 
 
 BUSINESS UNDERSTANDING
 The loan-providing companies find it hard to give loans to people due to their insufficient or non-existent credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. Suppose you work for a consumer finance company specialising in lending various types of loans to urban customers. You have to use EDA to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
